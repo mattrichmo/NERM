@@ -1,0 +1,21 @@
+{
+  "name": "nerm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-parse": "^5.5.6",
+    "fast-levenshtein": "^3.0.0",
+    "pupeteer": "^0.0.1",
+    "uuid": "^10.0.0"
+  }
+}
